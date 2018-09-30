@@ -1,3 +1,8 @@
+1>git clone name
+2>cd name
+3>npm install
+4>npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
